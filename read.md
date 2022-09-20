@@ -16,7 +16,8 @@
 например: [ссылка на ресурс GB.RU](http://gb.ru) 
 
 ## Теперь пробуем добавить изображение: 
-![пример картинки](//Users/romansmirnov/Desktop/project/picture.png)
+
+!(пример картинки)[//Users/romansmirnov/Desktop/project/picture.png]
 
 Тут супер заголовок
 ===
@@ -26,8 +27,7 @@
 
 >Цитата
 
-[Поисковик](https://google.com)
+[Яндекс](https://yandex.ru)
 
-![Тут Танос](https://upload.wikimedia.org/wikipedia/ru/7/7b/Josh_Brolin_as_Thanos.jpeg "Tанос")
+Здесь проба 2
 
-проба в main 
