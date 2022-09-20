@@ -11,3 +11,23 @@
 >Цитата
 
 **Жирный текст**
+
+## Добавляем ссылки
+например: [ссылка на ресурс GB.RU](http://gb.ru) 
+
+## Теперь пробуем добавить изображение: 
+![пример картинки](//Users/romansmirnov/Desktop/project/picture.png)
+
+Тут супер заголовок
+===
+### Тут просто заголовок
+
+~~ Зачеркнутый текст ~~
+
+>Цитата
+
+[Поисковик](https://google.com)
+
+![Тут Танос](https://upload.wikimedia.org/wikipedia/ru/7/7b/Josh_Brolin_as_Thanos.jpeg "Tанос")
+
+проба в main 
