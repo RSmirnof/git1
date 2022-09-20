@@ -27,3 +27,6 @@
 >Цитата
 
 [Поисковик](https://google.com)
+
+![Тут Танос](https://upload.wikimedia.org/wikipedia/ru/7/7b/Josh_Brolin_as_Thanos.jpeg "Tанос")
+
